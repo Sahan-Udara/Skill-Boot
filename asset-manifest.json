@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Skill-Boot/static/css/main.6a1a6ab0.css",
+    "main.js": "/Skill-Boot/static/js/main.a6f51bdf.js",
+    "static/js/787.5355ae0c.chunk.js": "/Skill-Boot/static/js/787.5355ae0c.chunk.js",
+    "static/media/psn-logo-large.png": "/Skill-Boot/static/media/psn-logo-large.c6fc34eb87212c2f0e0d.png",
+    "static/media/home-background.jpg": "/Skill-Boot/static/media/home-background.544bc6b3ae1afde4dfb3.jpg",
+    "index.html": "/Skill-Boot/index.html",
+    "main.6a1a6ab0.css.map": "/Skill-Boot/static/css/main.6a1a6ab0.css.map",
+    "main.a6f51bdf.js.map": "/Skill-Boot/static/js/main.a6f51bdf.js.map",
+    "787.5355ae0c.chunk.js.map": "/Skill-Boot/static/js/787.5355ae0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a1a6ab0.css",
+    "static/js/main.a6f51bdf.js"
+  ]
+}
